@@ -1,7 +1,7 @@
 # code-retrieval
 Retrieving the related code from the code knowledge base
 
-#related researches/papers/
+# related researches/papers/
 * **Neural Code Search(NCS)** -> [paper](https://people.eecs.berkeley.edu/~ksen/papers/ncs.pdf) | source code (*needs to be updated*)
 * **Met Code Search(UNIF)** -> [paper](https://arxiv.org/pdf/1905.03813.pdf) | source code (*needs to be updated*)
 * **StaQC** -> [paper](http://web.cse.ohio-state.edu/~sun.397/docs/StaQC-www18.pdf) | [source code](https://github.com/LittleYUYU/StackOverflow-Question-Code-Dataset)
