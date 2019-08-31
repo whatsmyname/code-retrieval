@@ -5,7 +5,7 @@ Retrieving the related code from the code knowledge base
 * **Neural Code Search(NCS)** -> [paper](https://people.eecs.berkeley.edu/~ksen/papers/ncs.pdf) | source code (*needs to be updated*)
 * **Met Code Search(UNIF)** -> [paper](https://arxiv.org/pdf/1905.03813.pdf) | source code (*needs to be updated*)
 * **StaQC** -> [paper](http://web.cse.ohio-state.edu/~sun.397/docs/StaQC-www18.pdf) | [source code](https://github.com/LittleYUYU/StackOverflow-Question-Code-Dataset)
-* **Deep Code Search** -> [paper](https://guxd.github.io/papers/deepcs.pdf) | source code (*needs to be updated*)
+* **Deep Code Search** -> [paper](https://guxd.github.io/papers/deepcs.pdf) | [source_code] (https://github.com/guxd/deep-code-search)
 * **CodeHow** -> [paper](https://www.researchgate.net/publication/316922032_CodeHow_Effective_Code_Search_based_on_API_Understanding_and_Extended_Boolean_Model) | source code (*needs to be updated*)
 * **Aroma** -> [paper](https://ai.facebook.com/blog/aroma-ml-for-code-recommendation/) | source code (*needs to be updated*)
 * **Hashing in Retrievals** 
@@ -15,3 +15,11 @@ Retrieving the related code from the code knowledge base
     * **DCH**-> [paper](http://ise.thss.tsinghua.edu.cn/~mlong/doc/deep-cauchy-hashing-cvpr18.pdf) | [source code](https://github.com/thulab/DeepHash/tree/master/DeepHash/model/dch)
     * **DTQ**-> [paper](https://github.com/thulab/DeepHash/blob/master/ise.thss.tsinghua.edu.cn/~mlong/doc/deep-triplet-quantization-acmmm18.pdf) | [source code](https://github.com/thulab/DeepHash/tree/master/DeepHash/model/dtq)
  
+
+Met Code Search(UNIF): Source Code and Data Requirement
+
+We need to contact with authors in order to retrieve their source codes or github link as well as data so that we can reproduce their results and test their approach
+
+
+Neural Code Search(NCS): Execute provided source code and reproduce their result
+This task is dependent to #1 . Once we have the source code and data, we need to execute the provided source code to reproduce their result and gain better understanding what they have done. 
